@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DB_Lab1_Part1</string>
+    <string name="name">Name</string>
+    <string name="addEmployee">Add Employee</string>
+</resources>
